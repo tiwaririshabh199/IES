@@ -11,6 +11,5 @@ class add{
   System.out.print(sum);
 }
 }
-class add2{
-}  
+  
 
